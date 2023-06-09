@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @cerkit
-- 👀 I’m interested in ... Music Production, 3D printing, Hobby Electronics, retro/Homebrew computers,
+- 👋 Hi, I’m @cerkit, and I've travelled a far distance through time and space to be here.
+- 👀 I’m interested in ... Reading Science-Fiction, Music Production, 3D printing, Hobby Electronics, retro/Homebrew computers, and hiking.
 - 🌱 I’m currently learning ... how to escape from a computer screen.
-- 💞️ I’m looking to collaborate on ... being well-tempered human beings and loving one another.
-- 📫 How to reach me ... get on top of the highest hill and shout my name to the wind.
 
 <!---
 cerkit/cerkit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
