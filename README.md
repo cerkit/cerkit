@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @cerkit
 - 👀 I’m interested in ... Music Production, 3D printing, Hobby Electronics, retro/Homebrew computers,
-- 🌱 I’m currently learning ... Microsoft Graph, OpenID Connect, Pi Calculus, Pict programming language, Blazor, Syncfusion
-- 💞️ I’m looking to collaborate on ... anything to do with music, 3D printing, electronics (CircuitPython, VHDL, Verilog, etc.)
-- 📫 How to reach me ... 
+- 🌱 I’m currently learning ... how to escape from a computer screen.
+- 💞️ I’m looking to collaborate on ... being well-tempered human beings and loving one another.
+- 📫 How to reach me ... get on top of the highest hill and shout my name to the wind.
 
 <!---
 cerkit/cerkit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
