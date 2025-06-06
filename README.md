@@ -7,7 +7,7 @@ Writes rock-solid C for Z80 machines ⚙️, hacks Verilog 💾, and architects 
 Spins up Docker on Windows 🐳, wrangles Hugo sites ⚡, and scripts Blender Geometry Nodes 🐍 to keep repetitive work out of the creative lane.
 
 🎶 **Ambient Alchemist**  
-Composes focus-boosting soundscapes in Reason 13 & Logic Pro, releasing tracks like *Oceania* on Bandcamp 🎧.
+Composes focus-boosting soundscapes in Reason 13 & Logic Pro, releasing tracks like [*Oceania* on Bandcamp](https://cerkit.bandcamp.com/album/oceania) 🎧.
 
 🖼️ **Visual Storyteller**  
 Procedurally generates geometry, AI-assisted album art, and seamless looping animations—​dialing in aspect ratios, color palettes, and motion to pixel perfection 🌌.
