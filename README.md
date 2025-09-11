@@ -1,23 +1,56 @@
-### 👋 Meet **cerkit**
+# 👋 Hi, I'm Michael
 
-🛠️ **Code-Crafter & Retro Tinkerer**  
-Writes rock-solid C for Z80 machines ⚙️, hacks Verilog 💾, and architects modern .NET + MQTT backends—​all backed by meticulous docs, UML, and DevOps wiki pages.
+I'm a **Software Architect**, maker, and lifelong tinkerer with a passion for building things that work beautifully — whether in code, music, or hardware.  
 
-🎛️ **Automation Advocate**  
-Spins up Docker on Windows 🐳, wrangles Hugo sites ⚡, and scripts Blender Geometry Nodes 🐍 to keep repetitive work out of the creative lane.
+[![Made with Blazor](https://img.shields.io/badge/Made%20with-Blazor-512BD4?logo=blazor&logoColor=white)](https://dotnet.microsoft.com/apps/aspnet/web-apps/blazor)
+[![Listen on Bandcamp](https://img.shields.io/badge/Music-Bandcamp-629aa9?logo=bandcamp&logoColor=white)](https://cerkit.bandcamp.com)
+[![Fleet Builder Guide](https://img.shields.io/badge/Docs-Fleet%20Builder%20Guide-0b7285?logo=readthedocs&logoColor=white)](https://cerkit.com/fleet-builder-guide/)
 
-🎶 **Ambient Alchemist**  
-Composes focus-boosting soundscapes in Reason 13 & Logic Pro, releasing tracks like [*Oceania* on Bandcamp](https://cerkit.bandcamp.com/album/oceania) 🎧.
+---
 
-🖼️ **Visual Storyteller**  
-Procedurally generates geometry, AI-assisted album art, and seamless looping animations—​dialing in aspect ratios, color palettes, and motion to pixel perfection 🌌.
+## 💻 Software & Programming
+- 🖤 **.NET Developer** — architecting solutions with **C#**, **ASP.NET**, and **Blazor**
+- 🍏 **Swift & SwiftUI** — building elegant macOS apps and experimenting with iOS UI
+- ⚙️ **C on Retro Computers** — developing for Z80/Z180-based systems and working close to the metal
+- 🧠 Focused on clean, maintainable, forward-thinking design
 
-🔁 **Iterative Perfectionist**  
-Thrives on rapid feedback loops: build → refine → wow. Every project ships only when it *looks good, sounds good, and just works.*
+---
 
-> *“Automate the mundane so creativity can take center stage.”*
+## 🎵 Music
+When I'm not writing code, I'm crafting **ambient electronic music** to help others focus and escape.  
+🎧 Listen here → [**cerkit.bandcamp.com**](https://cerkit.bandcamp.com)
 
-<!---
-cerkit/cerkit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+## 🔧 Hobby Electronics
+- 🔌 **Retro Computing** — SC126, SC130, and RC2014 projects
+- 💡 **FPGA / Verilog** — experimenting with custom digital circuits and SoC designs
+- 🛠️ Soldering, troubleshooting, and building devices just for the joy of it
+
+---
+
+## 🚢 Current Project: Fleet Builder
+I'm actively working on **Fleet Builder**, a single-file HTML app designed to help players build starship fleets quickly and easily.  
+
+📖 **User Guide:** [Fleet Builder Guide](https://cerkit.com/fleet-builder-guide/)  
+🛠️ **Tech Focus:** HTML, JavaScript, Tailwind, and inline CSS for portability and reliability.
+
+---
+
+## 🌟 What Drives Me
+I love solving complex problems with simple, elegant solutions — and sharing what I learn along the way.  
+Expect my repos to include:
+- 🖥️ .NET (Blazor, ASP.NET) and Swift projects  
+- 🏗️ FPGA designs  
+- 📜 Retro-computer utilities  
+- 🎶 Tools and experiments for creative coding
+
+---
+
+## 📊 GitHub Stats
+![Michael's GitHub stats](https://github-readme-stats.vercel.app/api?username=cerkit&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cerkit&layout=compact&theme=tokyonight)
+
+---
+
+> 🚀 **Always learning. Always building. Always creating.**
