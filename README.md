@@ -29,8 +29,8 @@ When I'm not writing code, I'm crafting **ambient electronic music** to help oth
 
 ---
 
-## 🚢 Current Project: Fleet Builder
-I'm actively working on **Fleet Builder**, a single-file HTML app designed to help players build starship fleets quickly and easily.  
+## 🚢 Current Project: Starship Combat Fleet Builder
+I'm actively working on **Starship Combat Fleet Builder**, a single-file HTML app designed to help players build starship fleets quickly and easily.  
 
 📖 **User Guide:** [Fleet Builder Guide](https://cerkit.com/fleet-builder-guide/)  
 🛠️ **Tech Focus:** HTML, JavaScript, Tailwind, and inline CSS for portability and reliability.
