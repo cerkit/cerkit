@@ -32,8 +32,8 @@ When I'm not writing code, I'm crafting **ambient electronic music** to help oth
 ## 🚢 Current Project: Shader Studio
 I'm actively working on **Shader Studio**, A macOS app for creating MSL animations.  
 
-📖 **Repository:** [Shader Studio repo](https://github.com/cerkit/shader_studio)
-🛠️ **Tech Focus:** SwiftUI, Metal Shading Language, and Google AI Studio API integration.
+- 📖 **Repository:** [Shader Studio repo](https://github.com/cerkit/shader_studio)
+- 🛠️ **Tech Focus:** SwiftUI, Metal Shading Language, and Google AI Studio API integration.
 
 ---
 
