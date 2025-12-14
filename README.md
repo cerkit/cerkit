@@ -29,11 +29,11 @@ When I'm not writing code, I'm crafting **ambient electronic music** to help oth
 
 ---
 
-## 🚢 Current Project: Starship Combat Fleet Builder
-I'm actively working on **Starship Combat Fleet Builder**, a single-file HTML app designed to help players build starship fleets quickly and easily.  
+## 🚢 Current Project: Shader Studio
+I'm actively working on **Shader Studio**, A macOS app for creating MSL animations.  
 
-📖 **User Guide:** [Fleet Builder Guide](https://cerkit.com/fleet-builder-guide/)  
-🛠️ **Tech Focus:** HTML, JavaScript, Tailwind, and inline CSS for portability and reliability.
+📖 **Repository:** [Shader Studio repo](https://github.com/cerkit/shader_studio))  
+🛠️ **Tech Focus:** SwiftUI, Metal Shading Language, and Google AI Studio API integration.
 
 ---
 
