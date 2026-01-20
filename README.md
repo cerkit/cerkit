@@ -6,9 +6,9 @@ I'm a **Software Architect**, maker, and lifelong tinkerer with a passion for bu
 [![Listen on Bandcamp](https://img.shields.io/badge/Music-Bandcamp-629aa9?logo=bandcamp&logoColor=white)](https://cerkit.bandcamp.com)
 [![Fleet Builder Guide](https://img.shields.io/badge/Docs-Fleet%20Builder%20Guide-0b7285?logo=readthedocs&logoColor=white)](https://cerkit.com/fleet-builder-guide/)
 
-[Website](https://cerkit.com)
+- [Website](https://cerkit.com)
+- [Facebook](https://www.facebook.com/michael.earls.100)
 
-[Facebook](https://www.facebook.com/michael.earls.100)
 ---
 
 ## 💻 Software & Programming
