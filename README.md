@@ -31,14 +31,6 @@ When I'm not writing code, I'm crafting **ambient electronic music** to help oth
 
 ---
 
-## 🚢 Current Project: Shader Studio
-I'm actively working on **Shader Studio**, A macOS app for creating MSL animations.  
-
-- 📖 **Repository:** [Shader Studio repo](https://github.com/cerkit/shader_studio)
-- 🛠️ **Tech Focus:** SwiftUI, Metal Shading Language, and Google AI Studio API integration.
-
----
-
 ## 🌟 What Drives Me
 I love solving complex problems with simple, elegant solutions — and sharing what I learn along the way.  
 Expect my repos to include:
@@ -46,12 +38,6 @@ Expect my repos to include:
 - 🏗️ FPGA designs  
 - 📜 Retro-computer utilities  
 - 🎶 Tools and experiments for creative coding
-
----
-
-## 📊 GitHub Stats
-![Michael's GitHub stats](https://github-readme-stats.vercel.app/api?username=cerkit&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cerkit&layout=compact&theme=tokyonight)
 
 ---
 
